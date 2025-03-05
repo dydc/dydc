@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dick Cheung (@dydc)
 
 ## 🚀 About Me
-I'm a **Software Engineer & System Architect** with experience in **FastAPI, Docker, InfluxDB, Telegraf, and Grafana**. Passionate about **automation, real-time data systems, and infrastructure optimization**, I specialize in building scalable and efficient backend services for industrial and factory automation.
+I'm a **Software Engineer & System Architect** with experience in **FastAPI, Docker, InfluxDB, Telegraf, and Grafana**. Passionate about **automation, real-time data systems, and infrastructure optimization**, I specialize in building scalable and efficient backend services for industrial and factory automation. I love **problem-solving** and tackling complex challenges with innovative solutions.
 
 ## 💡 Interests
 - 🔧 Building real-time monitoring & automation systems
