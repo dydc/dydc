@@ -20,6 +20,7 @@ I'm a **Software Engineer & System Architect** with experience in **FastAPI, Doc
 - Open-source DevOps & infrastructure projects
 
 ## 📫 How to Reach Me
+- 📞 Phone: +44 07918258120
 - 📧 Email: dick.y.d.cheung@gmail.com
 - 💬 Telegram: [@dydc](https://t.me/dickcheung)
 - 🏗️ GitHub: [github.com/dydc](https://github.com/dydc)
