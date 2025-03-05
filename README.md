@@ -27,4 +27,4 @@ I'm a **Software Engineer & System Architect** with experience in **FastAPI, Doc
 - 🏗️ GitHub: [github.com/dydc](https://github.com/dydc)
 
 ---
-✨ *Always exploring new tech and solving complex problems!*
+✨ *Always exploring new tech and learning!*
